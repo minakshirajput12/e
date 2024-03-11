@@ -1,0 +1,210 @@
+
+@media screen and (max-width: 768px) {
+    .media{
+        display: none;
+    }
+    .paragraph1{
+        color: grey;
+        margin-left: 17px;
+        font-size: 13px;
+    }
+    .parent2 .commerce{
+        font-size: 34px;
+        width: 38%;
+    }
+    .parent2 .heart1{
+        display: none;
+    }
+    .search-icon {
+        position: relative;
+        right: 25px;
+    }
+    .parent3{
+        display: none;
+    }
+    .parent4{
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        padding: 4%;
+    }
+    .trendingitem{
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .women{
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .fashion{
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    .starting{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .firstbox{
+        width: 40%;
+        margin: 2%;
+        /* font-size: px; */
+    }
+    
+.dress1{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 7px;
+    }
+    .treppan1{
+        margin-left: 75px;
+        font-size: 13px
+   }
+   .treppan2{ 
+       margin-left: 90px;
+      font-size: 13px
+   }
+   .treppan3{
+       margin-left: 100px;
+      font-size: 13px
+   }
+   .treppan4{ 
+       margin-left: 80px;
+      font-size: 13px
+   }
+   .firstbox{
+    height: 60px;
+    padding: 5px;
+   }
+   .firstbox img{
+    border-radius: 3px;
+   }
+   .lefttwalesab{
+    display: none;
+   }
+   .yellow1{
+    margin: 27px;
+    margin-bottom: 30px;
+    margin-left: 18px;
+}
+.yellow2{
+    margin: 17px;
+    margin-bottom: 30px;
+}
+.yellow3{
+    margin-bottom: 30px;
+    margin: 17px;
+}
+.yellow4{
+    display: flex;
+    margin: 17px;
+}
+.rajput{
+    width: 50%;
+    height: 400px;
+    margin-left: 0px;
+    /* border: 1px solid red; */
+}
+.meet4{
+    margin-left: 0px;
+    width: 84%;
+    margin: 2%;
+}
+.parent12{
+    margin: 10px 0px;
+    width: 690px;
+}
+.parenttext12{
+    font-size: 12px;
+}
+.parent12 img{
+    width: 330px;
+    height: 400px;
+}
+.parenttext12 .pahlahr{
+    width: 300px;
+}
+.parenttext12 .dusrahr{
+    width: 140px;
+}
+.parent13box1 img{
+    width: 250px;
+    height: 230px;
+}
+.parent13box1{
+width: 280px;
+height: 360px;
+margin-left: 20px;
+}
+.parent13box1{
+    text-align: start;
+}
+.parent14box1{
+    width: 700px;
+    height: 480px;
+    border-color: grey;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 5px;
+}
+.parent14box1 hr{
+    margin-top: 20px;
+    margin-left: 0px;
+    color: 1px solid black;
+}
+.parent14box3{
+    border: 1px solid grey;
+    width: 690px;
+    height: 380px;
+}
+.servicestext{
+    margin-left: 190px;
+}
+.rajputana{
+    display: none;
+}
+.parent15{
+    margin-top: 50px;
+}
+.parent15box2 img{
+    width: 300px;
+}
+
+.parent14box3 h2{
+    /* margin-bottom: 20px; */
+    margin-top: 18px;
+}
+.meet7 img{
+    width: 170px;
+    height: 170px;
+}
+.meet7{
+    margin-left: 60px;
+}
+.parent11 hr{
+    width: 660px;
+    /* margin-right: 10px; */
+}
+.parent16box2{
+    /* margin-left: 20px;
+    margin-top: 8px; */
+    margin: 10px;
+    display: flex;
+    font-size: 12px;
+    margin-left: 16px;
+ }
+.parent14box2{
+    background-image: url(https://prabhatlodhi-ecomm-site-responsive.netlify.app/images/cta-banner.jpg);
+    margin: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 680px;
+    margin-top: 70px;
+}
+.bcda{
+    margin-left: 210px;
+}
+.meet10 img{
+    width: 250px;
+    height: 20px;
+}
+}
